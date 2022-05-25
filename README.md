@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Biagio Paruolo</h1>
+<h3 align="center">from Italy</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biapar&label=Profile%20views&color=0e75b6&style=flat" alt="biapar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biapar" alt="biapar" /></a> </p>
 
+- 📫 How to reach me **biagioparuolo@hotmail.it**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/redconsultingit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redconsultingit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
